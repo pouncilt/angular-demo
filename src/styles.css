@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+app-header .row .col-md-12 {
+  border: 1px solid red;
+  height: 75px;
+}
+
+app-sub-header .row .col-md-12 {
+  border: 1px solid blue;
+  height: 55px;
+}
+
+app-header .row .col-md-12 {
+  border: 1px solid red;
+  height: 75px;
+}
+
+app-footer .row .col-md-12 {
+  border: 1px solid red;
+  height: 75px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  margin-right: 10px;
+}
